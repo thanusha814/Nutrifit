@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# System files (e.g., NTUSER.DAT, etc.)
+NTUSER.DAT*
+
+# IDE files (VS Code, etc.)
+.vscode/
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# OneDrive files
+OneDrive/
+
+# Other unwanted directories
+AppData/
+Saved Games/
+Documents/
+Videos/
+Downloads/
